@@ -9,11 +9,11 @@ If you have any questions, feel free to ask in our Discord: [https://discord.gg/
 ## Directory
 -------------------
 
-		.
-		├── nft						# Assets used in NFT design
-		├── cards					# Assets used in card design
-		├── LICENSE
-		└── README.md
+	.
+	├── nft			# Assets used in NFT design
+	├── cards		# Assets used in card design
+	├── LICENSE
+	└── README.md
 
 ## License
 -------------------
