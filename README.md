@@ -1,4 +1,5 @@
 # Hyperloot — Assets
+![hyperloot-banner](https://user-images.githubusercontent.com/3419259/167654541-2a9c5f27-2595-4ba3-9d68-4dcc172efd40.jpg)
 
 HyperLoot is a collection of unique characters visualized and generated based on the items inside Loot, More Loot, and Genesis Adventurer bags. Each HyperLoot grants an access to the Hyperverse.
 
