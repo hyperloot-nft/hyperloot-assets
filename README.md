@@ -10,8 +10,7 @@ If you have any questions, feel free to ask in our Discord: [https://discord.gg/
 ## Directory
 
 	.
-	├── nft			# Assets used in NFT design
-	├── cards		# Assets used in card design
+	├── cards		# Assets used in HyperLoot Card
 	├── LICENSE
 	└── README.md
 
