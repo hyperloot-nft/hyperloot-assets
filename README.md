@@ -5,7 +5,7 @@ HyperLoot is a collection of unique characters visualized and generated based on
 
 All the assets in this respository is produced by the [HyperLoot team](https://hyperlootproject.com/) and published with [CC0 License](https://github.com/hyperloot-nft/hyperloot-assets/blob/main/LICENSE).
 
-If you have any questions, feel free to ask in our Discord: [https://discord.gg/hyperloot](https://discord.gg/hyperloot)
+If you have any questions, feel free to ask in our [Discord](https://discord.gg/hyperloot).
 
 ## Directory
 
