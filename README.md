@@ -11,6 +11,7 @@ If you have any questions, you can ask us in our [Discord](https://discord.gg/hy
 
 	.
 	├── cards		# Assets used in HyperLoot Card
+	├── logo		# HyperLoot Logo
 	├── nft			# Assets used in HyperLoot NFT
 	├── LICENSE
 	└── README.md
